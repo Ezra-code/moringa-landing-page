@@ -158,3 +158,151 @@ p .story{
     height: auto;
     width: 600px;
 }
+/* tms */
+.TM{
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 50px;
+    justify-content: space-between;
+    
+}
+.tm1{
+    margin: 30px;
+}
+.tm1 #details{
+    text-align: left;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.tm1 img{
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+}
+.tm1 h4{
+    color: palevioletred;
+    font-size: 20px;
+    margin: 20px;
+    
+}
+.tm1 p{
+    width: 100%;
+    margin: 20px;
+}
+.tm1 button{
+    background-color: palevioletred;
+    color: white;
+    border: 2px solid palevioletred;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 12px;
+    margin: 20px;
+    width: 60%;
+
+}
+.tm2{
+    margin: 30px;
+}
+.tm2 #details{
+    text-align: left;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.tm2 img{
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+}
+.tm2 h4{
+    color: palevioletred;
+    font-size: 20px;
+    margin: 20px;
+    
+}
+.tm2 p{
+    width: 100%;
+    margin: 20px;
+}
+.tm2 button{
+    background-color: palevioletred;
+    color: white;
+    border: 2px solid palevioletred;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 12px;
+    margin: 20px;
+    width: 60%;
+}
+
+.tm3{
+    margin: 30px;
+}
+.tm3 #details{
+    text-align: left;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.tm3 img{
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+}
+.tm3 h4{
+    color: palevioletred;
+    font-size: 20px;
+    margin: 20px;
+    
+}
+.tm3 p{
+    width: 100%;
+    margin: 20px;
+}
+.tm3 button{
+    background-color: palevioletred;
+    color: white;
+    border: 2px solid palevioletred;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 12px;
+    margin: 20px;
+    width: 60%;
+}
+
+
+.tm4{
+    margin: 30px;
+}
+.tm4 #details{
+    text-align: left;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.tm4 img{
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+}
+.tm4 h4{
+    color: palevioletred;
+    font-size: 20px;
+    margin: 20px;
+    
+}
+.tm4 p{
+    width: 100%;
+    margin: 20px;
+}
+.tm4 button{
+    background-color: palevioletred;
+    color: white;
+    border: 2px solid palevioletred;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 12px;
+    margin: 20px;
+    width: 60%;
+}
