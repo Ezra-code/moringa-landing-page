@@ -60,12 +60,16 @@
     width: 100%;
 }
 img{
-    width: 400px;
-    height: 400px;
+    width: 600px;
+    height: auto;
 }
 
 .left .title{
     font-weight: 200;
+    margin: 20px;
+    font-size: 28px;
+}
+h1{
     margin: 20px;
     font-size: 28px;
 }
@@ -145,6 +149,10 @@ p .story{
     cursor: pointer;
     padding: 12px 36px;
     margin: 50px;
+}
+.album:hover{
+    color: palevioletred;
+    background: none;
 }
 .orientation .left img{
     height: auto;
