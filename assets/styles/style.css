@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.container{
+    padding: 0 80px;
+    margin: auto;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    padding: 30px 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.navbar .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar #moringa{
+    font-size: 39px;
+    font-weight: 600;
+}
+.navbar #moringa span{
+    color: palevioletred;
+}
+.navbar .menu li{
+    list-style: none;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 500px;
+    margin-left: 25px;
+}
+.menu-btn{
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: palevioletred;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+}
