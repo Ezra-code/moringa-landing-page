@@ -59,9 +59,9 @@
     margin-top: 30px;
     width: 100%;
 }
-.right img{
-    width: 450px;
-    height: 450px;
+img{
+    width: 400px;
+    height: 400px;
 }
 
 .left .title{
@@ -80,7 +80,7 @@
     font-size: 28px;
 }
 button{
-    margin: 20px;
+    margin: 20px 20px 0 20px;
 }
 .left .enroll{
     background-color: palevioletred;
@@ -107,4 +107,46 @@ button{
 .explore:hover{
     background-color: palevioletred;
     color: white; 
+}
+p{ 
+    margin-left: 70px;
+}
+p .story{
+    background-color: rgba(128, 128, 128, 0.2);
+}
+
+.orientation{
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 50px;
+    justify-content: space-between;
+    
+}
+.orientation .right{
+    margin: 30px;
+    font-size: 25px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.orientation h3{
+    margin: 50px;
+}
+
+.orientation p{
+    margin: 50px;
+}
+.orientation .album{
+    background-color: palevioletred;
+    color: white;
+    border: 2px solid palevioletred;
+    border-radius: 5px;
+    font-size: 25px;
+    cursor: pointer;
+    padding: 12px 36px;
+    margin: 50px;
+}
+.orientation .left img{
+    height: auto;
+    width: 600px;
 }
