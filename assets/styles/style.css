@@ -160,6 +160,7 @@ p .story{
 }
 /* tms */
 .TM{
+    background-color: aliceblue;
     display: flex;
     font-family: 'Courier New', Courier, monospace;
     margin: 50px;
