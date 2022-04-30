@@ -47,9 +47,6 @@
     background-color: azure;
 }
 .vision{
-    background-color: black;
-    color: white;
-    padding: 40px;
     display: flex;
     font-family: 'Courier New', Courier, monospace;
     margin: 50px;
