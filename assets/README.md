@@ -8,7 +8,7 @@
 + [Features](#features)
 + [Technology Used](#tech)
 + [Licence](#licence)
-+ [Authors](#authors)
++ [Authors Information](#authors)
 
 ## Description
 welcome to Moringa School landing page. this web page showcases and tells potential students more about Moringa. You get to learn and know more about the school and where to begin your coding/programming journey
@@ -23,4 +23,5 @@ This page contains indepth features to communicate with the student who wants to
 ## Licence
 click here to view the licence used [click to view licence](#licence)
 
-##
+## Authors Information
+* Name - Njeru Kithinji
