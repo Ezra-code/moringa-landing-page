@@ -19,7 +19,8 @@ This page contains indepth features to communicate with the student who wants to
 ## Technology Used
 * HTML -> This hyper text markup language was used to create the structure of the web page
 * CSS -> Cascading styles sheet this technology was used in order to style the web page and to give it a good looking user interface
-
+## Link
+Click the following website to view the website.  https://ezra-code.github.io/moringa-landing-page/
 ## Licence
 click here to view the licence used [click to view licence](#licence)
 
