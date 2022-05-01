@@ -175,6 +175,12 @@ p .story{
     justify-content: center;
     font-family: 'Times New Roman', Times, serif;
 }
+#details h3{
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 .tm1 img{
     height: 250px;
     width: 250px;
